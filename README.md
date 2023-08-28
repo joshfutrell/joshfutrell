@@ -1,6 +1,6 @@
 # Product Manager Transitioning to Software Development
 ## Background
-- Decades of software/hardware product management, primarily B2B with a variety of verticals (industrial, healthcare, logistics, etc.)
+- Decades of software/hardware product management, primarily B2B verticals (industrial, healthcare, logistics, etc.)
 - Realized working with engineering and design was the most energizing part of the job; want to do it full-time
 - Starting coding bootcamp **Tech Elevator** full-time in September 2023: full-stack, web development, C#, JavaScript
 - Graduating December 2023
